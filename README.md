@@ -1,4 +1,4 @@
-# GoalMate Support
+# Planary Support
 
 If you have questions, issues, or feedback:
 
