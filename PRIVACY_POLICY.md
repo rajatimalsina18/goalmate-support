@@ -2,7 +2,7 @@
 
 Last updated: October 2025
 
-This privacy policy explains how the app GoalMate (“the App”) handles user data.
+This privacy policy explains how the app Planary (“the App”) handles user data.
 
 ## Data Collection
 Daycraft does **not collect, store, transmit, or share any personal data**.
